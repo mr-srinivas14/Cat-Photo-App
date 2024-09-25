@@ -30,7 +30,7 @@ The **Cat Photos App** is a simple HTML project that displays a collection of ca
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/cat-photos-app.git
+    git clone https://github.com/mr-srinivas14/cat-photos-app.git
     ```
 2. Open the `Cat_Photos_App.html` file in any browser to view the app.
 
